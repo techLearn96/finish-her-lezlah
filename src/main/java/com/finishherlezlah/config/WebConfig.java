@@ -16,7 +16,7 @@ public class WebConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("http://localhost:3000")
+                        .allowedOrigins("http://localhost:3000", "https://lezlah.netlify.app/")
                         .allowedMethods("GET") // Only allow GET requests
                         .allowedHeaders("*");
             }
