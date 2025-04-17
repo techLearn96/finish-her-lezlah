@@ -49,7 +49,7 @@ function App() {
       setRoast('Loading roast...');
       setError('');
 
-      const response = await axios.get('http://localhost:8080/api/v1/roast/roast', {
+      const response = await axios.get('https://finish-her-lezlah-production.up.railway.app/api/v1/roast/roast', {
         params: {
           category: randomCategory,
           index: randomIndex
