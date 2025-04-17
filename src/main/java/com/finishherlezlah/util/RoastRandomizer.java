@@ -128,7 +128,8 @@ public class RoastRandomizer {
                 "LoserBraids -> 'The one they love to hate 🤭' DIRECTOR: CUT! CUT! CUT! " +
                         "Remember—humility. Let’s go again!",
                 "The only thing we hating on, is that you like to twist lies.",
-                "Sis got the personality depth of a parking lot."
+                "Sis got the personality depth of a parking lot.",
+                "You're the reason therapy raised its prices"
         ));
 
         roastMap.put("FAKEQUEEN", List.of(
@@ -165,16 +166,20 @@ public class RoastRandomizer {
                 "She posts a thirst trap and you're like, 'My loneliness... is gaslighting me.'",
                 "Oops, you did it again—you stared too long, giggled too soft, and now she thinks you’re proposing with your eyes.",
                 "Girl you should have not stolen Britney Spears line -> 'Oops I did it again, I played with your heart!' Britney Spears is offended."
-
-
-
-
         ));
 
         roastMap.put("LOSERBRAIDKNUCKS", List.of(
                 "Looking like Knuckles the Echidna: 'I must protect the Master Emerald!'",
                 "She’s one bad comment away from throwing hands in 4K.",
-                "Girl, just tell me where the gas station is. You’re not in Skyrim."
+                "Girl, just tell me where the gas station is. You’re not in Skyrim.",
+                "Why she look like she just told Sonic, 'You can’t run from this smoke.'",
+                "Never knew Knuckles the Echidna had a sister… and she don’t play.,",
+                "Why she look like she hopes the Master Emerald is okay?",
+                "She look like she just finished arguing with Sonic and went straight to Walgreens.",
+                "Knuckles? Nah, that's Buckles — strapped up in emotion and ready to square up.",
+                "Not Knuckles' sister showing up late to team meetings again talkin’ bout ‘I had to vibe check some chaos energy.’",
+                "Sis really woke up and chose Echidna Elegance™ — boots tight, stance locked, no emerald left behind."
+
         ));
     }
 }

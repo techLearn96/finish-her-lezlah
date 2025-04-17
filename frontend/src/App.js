@@ -34,11 +34,11 @@ function App() {
     try {
       const roastOptions = {
         LEZLAHSAYS: 18,
-        FOREHEAD: 5,
-        LIKETOHATE: 4,
-        FAKEQUEEN: 16,
-        WANNABESTRAIGHT: 5,
-        LOSERBRAIDKNUCKS: 3
+        FOREHEAD: 11,
+        LIKETOHATE: 6,
+        FAKEQUEEN: 15,
+        WANNABESTRAIGHT: 12,
+        LOSERBRAIDKNUCKS: 10
       };
 
       const categories = Object.keys(roastOptions);
