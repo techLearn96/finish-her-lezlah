@@ -18,7 +18,7 @@ class RoastRandomizerTest {
         String category = "FOREHEAD";
         int index = 0;
         assertEquals(RoastRandomizer.getRoast(category, index),
-                "AriHell, your forehead is shaped like an almond.");
+                "Your forehead is shaped like an almond.");
     }
 
     @Test()
@@ -30,13 +30,5 @@ class RoastRandomizerTest {
            RoastRandomizer.getRoast(category, index);
         });
     }
-
-    @Test()
-    void validateCategoryRoastAlreadyUsed(){
-
-    }
-
-
-
 
 }
